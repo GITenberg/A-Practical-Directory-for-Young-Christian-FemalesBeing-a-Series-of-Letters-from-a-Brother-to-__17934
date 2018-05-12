@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7710
     wikipedia: http://en.wikipedia.org/wiki/Harvey_Newcomb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17934#A-Practical-Directory-for-Young-Christian-FemalesBeing-a-Series-of-Letters-from-a-Brother-to-_
 gutenberg_issued: '2006-03-06'
 gutenberg_type: Text
 identifiers:
